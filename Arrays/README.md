@@ -1,56 +1,72 @@
-# 📚 DSA in Java - Arrays
+# 📚 DSA in Java — Arrays
 
-This repository contains my Java implementations of fundamental Array problems in Data Structures and Algorithms (DSA). The goal is to build strong problem-solving skills and prepare for coding interviews through consistent practice.
+Welcome to the **Arrays** section of my DSA journey in **Java**. This folder contains solutions to fundamental array problems, starting from basic operations and progressing to interview-oriented questions with optimized approaches.
 
----
-
-## 📂 Programs Included
-
-| Program | Description |
-|---------|-------------|
-| 🔍 LinearSearch.java | Linear Search |
-| 🔍 BinarySearch.java | Binary Search |
-| 🔄 ReverseArray.java | Reverse an Array |
-| 🔁 RotateArray.java | Rotate an Array |
-| 🔄 InverseArray.java | Inverse of an Array |
-| 🔀 Swap.java | Swap two Elements |
-| ➕ SumOfTwoArrays.java | Sum of Two Arrays |
-| ➖ DifferenceOfTwoArrays.java | Difference of Two Arrays |
-| 📍 FindElement.java | Find an Element |
-| 📏 Span.java | Find Span of an Array |
-| 📑 PrintSubarrays.java | Print all Subarrays |
-| 📈 MaximumSubarrayBrute.java | Maximum Subarray (Brute Force) |
-| 📊 PrefixSum.java | Maximum Subarray using Prefix Sum |
-| ⚡ KadanesAlgorithm.java | Maximum Subarray using Kadane's Algorithm |
-| 🌧️ TrappingRainWater.java | Trapping Rain Water |
-| 💹 BestTimeToBuyAndSellStock.java | Maximum Stock Profit |
+The primary goal of this repository is to **understand problem-solving techniques**, write clean Java code, and build a strong foundation for coding interviews.
 
 ---
 
-## 🚀 Concepts Covered
+# 📂 Problems Solved
 
-- Arrays
-- Linear Search
-- Binary Search
-- Array Rotation
-- Array Reversal
-- Prefix Sum
-- Kadane's Algorithm
-- Maximum Subarray
-- Trapping Rain Water
-- Best Time to Buy and Sell Stock
-- Time Complexity Analysis
-- Brute Force vs Optimized Approaches
+| 📄 File                       | 📝 Problem                                |
+| ----------------------------- | ----------------------------------------- |
+| `LinearSearch.java`           | Linear Search                             |
+| `BinarySearch.java`           | Binary Search                             |
+| `FindingElement.java`         | Find an Element                           |
+| `Swap.java`                   | Swap Two Elements                         |
+| `ReversingArray.java`         | Reverse an Array                          |
+| `RotatingArray.java`          | Rotate an Array                           |
+| `InverseArray.java`           | Inverse of an Array                       |
+| `Span.java`                   | Span of an Array                          |
+| `Summing2Arrays.java`         | Sum of Two Arrays                         |
+| `DifferenceArrays.java`       | Difference of Two Arrays                  |
+| `SubArrays.java`              | Print All Subarrays                       |
+| `MaxSubarraySumBrute.java`    | Maximum Subarray Sum (Brute Force)        |
+| `MaxSubarraySumPrefix.java`   | Maximum Subarray Sum (Prefix Sum)         |
+| `MaxSubarraySumKadane.java`   | Maximum Subarray Sum (Kadane's Algorithm) |
+| `BuyandSellStocks.java`       | Best Time to Buy and Sell Stock           |
+| `TrappingRainwaterBrute.java` | Trapping Rain Water (Brute Force)         |
+| `TrappingRainwaterBest.java`  | Trapping Rain Water (Optimized)           |
 
 ---
 
-## 🛠️ Language
+# 🧠 Concepts Covered
 
-- Java
+* ✅ Array Traversal
+* ✅ Linear Search
+* ✅ Binary Search
+* ✅ Array Reversal
+* ✅ Array Rotation
+* ✅ Inverse Array
+* ✅ Prefix Sum
+* ✅ Kadane's Algorithm
+* ✅ Maximum Subarray Sum
+* ✅ Trapping Rain Water
+* ✅ Best Time to Buy and Sell Stock
+* ✅ Brute Force vs Optimized Approaches
+* ✅ Time & Space Complexity Analysis
 
 ---
 
-## ▶️ How to Run
+# 🚀 What I Learned
+
+Through these problems, I practiced:
+
+* Writing clean and readable Java code
+* Optimizing brute-force solutions
+* Thinking in terms of algorithms instead of memorizing code
+* Analyzing time and space complexity
+* Building a strong foundation for interview preparation
+
+---
+
+# 💻 Language
+
+* **Java**
+
+---
+
+# ▶️ How to Run
 
 ```bash
 javac FileName.java
@@ -59,27 +75,35 @@ java FileName
 
 ---
 
-## 🎯 Purpose
+# 🎯 Purpose
 
-This repository documents my DSA learning journey in Java. Every solution is written to understand the underlying logic rather than memorizing code. It also serves as my revision notes and a way to track my progress over time.
+This folder is part of my DSA learning journey. Every solution is written after understanding the underlying concept and gradually improving from basic to optimized approaches.
 
----
+The repository also serves as:
 
-## 📌 Next Topics
-
-- HashSet
-- HashMap
-- ArrayList
-- Strings
-- Two Pointers
-- Sliding Window
-- Stack
-- Binary Search
-- Linked List
-- Trees
-- Graphs
-- Dynamic Programming
+* 📌 Revision notes
+* 📌 Interview preparation
+* 📌 Progress tracker
+* 📌 Consistent coding practice
 
 ---
 
-⭐ Consistent practice, one problem at a time.
+# 📈 What's Next?
+
+* 🔹 Hashing
+* 🔹 Strings
+* 🔹 Two Pointers
+* 🔹 Sliding Window
+* 🔹 Stack
+* 🔹 Binary Search
+* 🔹 Linked List
+* 🔹 Trees
+* 🔹 Heap / Priority Queue
+* 🔹 Backtracking
+* 🔹 Graphs
+* 🔹 Dynamic Programming
+* 🔹 Greedy Algorithms
+
+---
+
+### ⭐ *"Consistency beats intensity. One problem solved today is one less problem to fear tomorrow."*
