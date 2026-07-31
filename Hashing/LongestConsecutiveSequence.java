@@ -11,7 +11,7 @@ public class Main {
 
 		HashSet<Integer> set = new HashSet<>();
 
-		// Store all elements in HashSet
+		// Storing all elements in HashSet
 		for (int num : nums) {
 			set.add(num);
 		}
