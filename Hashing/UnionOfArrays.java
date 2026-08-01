@@ -1,7 +1,7 @@
 import java.util.*;
 
 
-public class Main {
+class UnionofArrays {
 	public static void Union(int[]a, int[]b) {
 		int n=a.length;
 		int m=b.length;

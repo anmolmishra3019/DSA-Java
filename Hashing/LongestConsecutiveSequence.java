@@ -1,7 +1,7 @@
 
 import java.util.*;
 
-public class Main {
+class LongestConsecutive{
 
 	public static int longestConsecutive(int[] nums) {
 

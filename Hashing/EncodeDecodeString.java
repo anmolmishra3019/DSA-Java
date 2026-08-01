@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {
+public class EncodeDecodeString {
 
 	// Encode
 	public static String encode(List<String> strs) {

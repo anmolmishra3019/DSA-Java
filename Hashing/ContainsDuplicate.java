@@ -20,7 +20,7 @@ class Main {
 	}
 	
 	 public static void main (String[] args) {
-	    int a[]={1,2,3,4,5};
+	    int a[]={1,2,4,4,5};
 	    System.out.println("the array contains duplicate");
 	    System.out.print(containsDuplicate(a));
 	}

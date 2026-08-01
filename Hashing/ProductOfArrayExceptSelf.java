@@ -1,5 +1,5 @@
 import java.util.*;
-public class Main {
+class productExceptSelf {
 
 	public static int[] ProductExceptSelf(int a[]) {
 		int n= a.length;

@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {
+class Intersection {
 	public static void Intersection(int[]a, int[]b) {
 		int n=a.length;
 		int m=b.length;

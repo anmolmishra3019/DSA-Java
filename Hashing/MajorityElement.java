@@ -1,7 +1,7 @@
 import java.util.*;
 
 
-public class Main {
+class majorityElement {
 	public static void MajorityElement(int[] a) {
 		HashMap<Integer, Integer> map= new HashMap<>();
 		for (int i=0; i<a.length ; i++ ) {
