@@ -1,23 +1,25 @@
 # DSA in Java 🚀
 
-This repository contains my Java solutions and learning for Data Structures and Algorithms.
+A topic-wise collection of Data Structures and Algorithms solutions in **Java**.
 
-## Topics
+This repository is part of my preparation for **internships**, **placements**, and **problem-solving practice**.  
+I solve problems topic by topic, focusing on clean code, logic building, and interview-oriented patterns.
 
-- Arrays
-- HashMap
-- HashSet
-- Strings
-- Linked List
-- Trees
-- Graphs
-- Dynamic Programming
+## Repository Structure
 
-Currently Completed:
-- ✅ Arrays
-
-Upcoming:
-- HashMap
-- HashSet
-- Strings
-- Linked List
+```text
+DSA-Java/
+├── Arrays/
+├── Hashing/
+├── Two Pointers/
+├── Sliding Window/
+├── Stack/
+├── Binary Search/
+├── Linked List/
+├── Trees/
+├── Heap/
+├── Backtracking/
+├── Tries/
+├── Graphs/
+├── Dynamic Programming/
+└── README.md
