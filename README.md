@@ -49,6 +49,8 @@ DSA-Java/
 
 * Valid Palindrome
 * Two Sum II
+* Container With Most Water
+* 3 Sum
 
 ---
 
