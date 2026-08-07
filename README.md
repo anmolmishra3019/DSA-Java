@@ -58,7 +58,7 @@ DSA-Java/
 | ------------ | -------------- |
 | Arrays       | ✅ Completed    |
 | Hashing      | ✅ Completed    |
-| Two Pointers | 🚧 In Progress |
+| Two Pointers | 🚧 Completed    |
 
 ---
 
